@@ -1,0 +1,58 @@
+"Table 2.1. Personal Income and Its Disposition"
+"[Billions of dollars] Seasonally adjusted at annual rates" 
+"Bureau of Economic Analysis" 
+"Last Revised on: June 25, 2020 - Next Release Date July 30, 2020"
+"Line","","2018","2018","2018","2018","2019","2019","2019","2019","2020"
+"Line","","Q1","Q2","Q3","Q4","Q1","Q2","Q3","Q4","Q1"
+"1","Personal income",17540.3,17725.0,17928.5,18082.8,18355.4,18555.9,18676.9,18845.1,18942.2
+"2","    Compensation of employees",10786.0,10876.1,10994.3,11057.4,11306.6,11386.9,11441.7,11575.6,11580.4
+"3","        Wages and salaries",8776.7,8845.0,8942.2,8990.0,9211.5,9273.6,9309.6,9421.9,9421.0
+"4","            Private industries",7396.3,7450.9,7529.6,7566.8,7779.5,7830.9,7849.4,7949.8,7936.1
+"5","            Government",1380.4,1394.1,1412.6,1423.3,1432.0,1442.7,1460.2,1472.1,1484.9
+"6","        Supplements to wages and salaries",2009.4,2031.1,2052.0,2067.4,2095.1,2113.3,2132.1,2153.7,2159.4
+"7","            Employer contributions for employee pension and insurance funds1",1391.8,1410.9,1426.6,1439.3,1450.3,1464.7,1481.6,1496.3,1502.2
+"8","            Employer contributions for government social insurance",617.6,620.2,625.4,628.1,644.8,648.6,650.5,657.4,657.2
+"9","    Proprietors' income with inventory valuation and capital consumption adjustments",1567.5,1573.3,1590.0,1624.4,1621.2,1632.9,1683.4,1695.6,1699.6
+"10","        Farm",28.1,27.5,17.4,35.9,24.8,19.2,41.8,42.1,38.0
+"11","        Nonfarm",1539.4,1545.8,1572.6,1588.4,1596.3,1613.7,1641.5,1653.5,1661.6
+"12","    Rental income of persons with capital consumption adjustment",743.8,754.0,765.2,764.1,767.0,777.2,779.7,787.7,795.5
+"13","    Personal income receipts on assets",2851.6,2909.3,2957.7,3002.0,2955.1,3016.5,2997.7,3002.2,3010.0
+"14","        Personal interest income",1669.6,1694.6,1719.3,1727.2,1699.3,1750.5,1716.8,1715.6,1704.3
+"15","        Personal dividend income",1182.0,1214.7,1238.4,1274.8,1255.8,1266.0,1280.9,1286.6,1305.7
+"16","    Personal current transfer receipts",2935.4,2963.1,2983.8,3003.7,3113.1,3158.6,3195.8,3220.3,3305.0
+"17","        Government social benefits to persons",2884.8,2910.1,2929.4,2949.0,3058.7,3104.2,3141.2,3165.3,3249.2
+"18","            Social security2",960.5,968.0,976.0,985.1,1022.9,1030.5,1037.7,1047.5,1071.4
+"19","            Medicare3",710.2,721.9,736.7,754.6,774.9,793.6,809.9,822.8,833.4
+"20","            Medicaid",589.8,600.4,602.9,597.6,610.3,631.4,644.2,643.0,647.9
+"21","            Unemployment insurance",28.8,27.2,26.6,26.0,26.9,25.9,25.8,26.0,40.8
+"22","            Veterans' benefits",108.8,109.0,109.9,111.8,116.4,118.4,120.1,122.3,125.2
+"23","            Other",486.7,483.5,477.4,473.8,507.3,504.4,503.5,503.7,530.6
+"24","        Other current transfer receipts, from business (net)",50.6,53.0,54.4,54.7,54.4,54.4,54.6,54.9,55.8
+"25","    Less: Contributions for government social insurance, domestic",1344.0,1350.9,1362.4,1368.7,1407.6,1416.3,1421.3,1436.3,1448.4
+"26","Less: Personal current taxes",2074.9,2071.7,2086.5,2077.4,2156.9,2200.1,2175.3,2200.3,2206.1
+"27","Equals: Disposable personal income",15465.4,15653.3,15842.0,16005.4,16198.5,16355.7,16501.6,16644.8,16736.0
+"28","Less: Personal outlays",14245.2,14465.9,14655.6,14757.8,14823.0,15073.1,15237.2,15356.0,15127.3
+"29","    Personal consumption expenditures",13728.4,13939.8,14114.6,14211.9,14266.3,14511.2,14678.2,14795.0,14583.3
+"30","    Personal interest payments4",322.3,329.6,341.5,353.4,359.1,363.0,359.1,358.5,347.5
+"31","    Personal current transfer payments",194.5,196.4,199.6,192.5,197.7,198.9,200.0,202.4,196.4
+"32","        To government",105.7,106.5,107.3,107.9,108.0,108.6,109.1,109.6,106.7
+"33","        To the rest of the world (net)",88.8,89.9,92.3,84.5,89.7,90.3,90.9,92.8,89.8
+"34","Equals: Personal saving",1220.2,1187.4,1186.4,1247.6,1375.5,1282.6,1264.3,1288.8,1608.8
+"35","    Personal saving as a percentage of disposable personal income",7.9,7.6,7.5,7.8,8.5,7.8,7.7,7.7,9.6
+"","Addenda:","","","","","","","","",""
+"36","    Personal income excluding current transfer receipts, billions of chained (2012) dollars5",13599.1,13670.5,13785.6,13863.6,13999.8,14059.1,14083.6,14166.1,14131.3
+"","    Disposable personal income:","","","","","","","","",""
+"37","        Total, billions of chained (2012) dollars5",14400.3,14495.9,14613.3,14715.2,14878.1,14934.3,15011.9,15090.9,15124.3
+"","        Per capita:","","","","","","","","",""
+"38","            Current dollars",47393,47913,48422,48856,49397,49824,50198,50563,50788
+"39","            Chained (2012) dollars",44129,44370,44666,44918,45371,45494,45666,45843,45897
+"40","    Population (midperiod, thousands)",326325,326703,327167,327602,327923,328270,328730,329186,329529
+"","    Percent change from preceding period:","","","","","","","","",""
+"41","        Disposable personal income, current dollars",9.6,4.9,4.9,4.2,4.9,3.9,3.6,3.5,2.2
+"42","        Disposable personal income, chained (2012) dollars",6.9,2.7,3.3,2.8,4.5,1.5,2.1,2.1,0.9
+"Legend / Footnotes:"
+"1. Includes actual employer contributions and actuarially imputed employer contributions to reflect benefits accrued by defined benefit pension plan participants through service to employers in the current period."
+"2. Social security benefits include old-age, survivors, and disability insurance benefits that are distributed from the federal old-age and survivors insurance trust fund and the disability insurance trust fund."
+"3. Medicare benefits include hospital and supplementary medical insurance benefits that are distributed from the federal hospital insurance trust fund and the supplementary medical insurance trust fund."
+"4. Consists of nonmortgage interest paid by households.  Note that mortgage interest paid by households is an expense item in the calculation of rental income of persons."
+"5. The current-dollar measure is deflated by the implicit price deflator for personal consumption expenditures."
