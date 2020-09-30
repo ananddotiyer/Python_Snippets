@@ -1,0 +1,373 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 14690,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Hello."
+    } ]
+  }, {
+    "tStartMs": 15690,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Welcome to Statistics for Data Science-1."
+    } ]
+  }, {
+    "tStartMs": 18110,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "I am Usha Mohan, Professor at the Department\nof Management Studies, IIT Madras."
+    } ]
+  }, {
+    "tStartMs": 23480,
+    "dDurationMs": 8260,
+    "segs": [ {
+      "utf8": "Over the next 12 weeks, we would travel together\nto understand the basics of statistics that"
+    } ]
+  }, {
+    "tStartMs": 31740,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "is needed for your online degree programme."
+    } ]
+  }, {
+    "tStartMs": 33850,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "So, we first begin with understanding what\nis statistics."
+    } ]
+  }, {
+    "tStartMs": 39320,
+    "dDurationMs": 4059,
+    "segs": [ {
+      "utf8": "So, first we look at what is the definition\nof statistics."
+    } ]
+  }, {
+    "tStartMs": 43379,
+    "dDurationMs": 6390,
+    "segs": [ {
+      "utf8": "So, one of the most popular definitions of\nstatistics tells us statistics is the art"
+    } ]
+  }, {
+    "tStartMs": 49769,
+    "dDurationMs": 7441,
+    "segs": [ {
+      "utf8": "of learning from data which includes collection\nof data, analysis of data, presentation of"
+    } ]
+  }, {
+    "tStartMs": 57210,
+    "dDurationMs": 3039,
+    "segs": [ {
+      "utf8": "data, and then, drawing conclusions from data."
+    } ]
+  }, {
+    "tStartMs": 60249,
+    "dDurationMs": 6921,
+    "segs": [ {
+      "utf8": "So, one of the main things you are going to\nlearn in this course is to first, we are going"
+    } ]
+  }, {
+    "tStartMs": 67170,
+    "dDurationMs": 7470,
+    "segs": [ {
+      "utf8": "to look at how you collect data So, that is\none of the main things which we will do."
+    } ]
+  }, {
+    "tStartMs": 74640,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "So, we start with data collection."
+    } ]
+  }, {
+    "tStartMs": 77590,
+    "dDurationMs": 9020,
+    "segs": [ {
+      "utf8": "So, we look at how you collect data and then,\nwe go on to see how you actually present this"
+    } ]
+  }, {
+    "tStartMs": 86610,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "data."
+    } ]
+  }, {
+    "tStartMs": 88250,
+    "dDurationMs": 7660,
+    "segs": [ {
+      "utf8": "During this course, we learn about how you\ndo present data in a tabular form; we introduce"
+    } ]
+  }, {
+    "tStartMs": 95910,
+    "dDurationMs": 6150,
+    "segs": [ {
+      "utf8": "a concepts of frequency tables; we introduce\na concept of relative frequency and we look"
+    } ]
+  }, {
+    "tStartMs": 102060,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "at how you tabulate data."
+    } ]
+  }, {
+    "tStartMs": 104810,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "We also learn about the different types of\ndata that you encounter."
+    } ]
+  }, {
+    "tStartMs": 109460,
+    "dDurationMs": 7720,
+    "segs": [ {
+      "utf8": "Then, we look at how you further look at describing\ndata using graphical techniques."
+    } ]
+  }, {
+    "tStartMs": 117180,
+    "dDurationMs": 6710,
+    "segs": [ {
+      "utf8": "Some of the graphical techniques that you\nwould learn are bar charts, pie charts, histograms,"
+    } ]
+  }, {
+    "tStartMs": 123890,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "stem leaf plots etcetera."
+    } ]
+  }, {
+    "tStartMs": 125490,
+    "dDurationMs": 10510,
+    "segs": [ {
+      "utf8": "We then, also go about learning how you actually\ncome up with numerical measures of data."
+    } ]
+  }, {
+    "tStartMs": 136000,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "What we look here mainly is at the measures\nof central tendency; namely, mean, median"
+    } ]
+  }, {
+    "tStartMs": 143040,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "and mode and the measures of variation; namely,\nrange, variance, standard deviation."
+    } ]
+  }, {
+    "tStartMs": 150240,
+    "dDurationMs": 7770,
+    "segs": [ {
+      "utf8": "So, far we have just talked about describing\na single variable, we also look at answering"
+    } ]
+  }, {
+    "tStartMs": 158010,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "questions about association between variables."
+    } ]
+  }, {
+    "tStartMs": 161310,
+    "dDurationMs": 7759,
+    "segs": [ {
+      "utf8": "Towards this, we also introduce the concept\nof contingency tables, scatter plots and we"
+    } ]
+  }, {
+    "tStartMs": 169069,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "also introduce what is a correlation matrix."
+    } ]
+  }, {
+    "tStartMs": 172550,
+    "dDurationMs": 6830,
+    "segs": [ {
+      "utf8": "So, predominantly in the descriptive statistics\nmodule, you will be learning about collecting"
+    } ]
+  }, {
+    "tStartMs": 179380,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "data, organising data and describing data."
+    } ]
+  }, {
+    "tStartMs": 184280,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "Describing data both using graphical techniques\nand numerical techniques."
+    } ]
+  }, {
+    "tStartMs": 188530,
+    "dDurationMs": 6830,
+    "segs": [ {
+      "utf8": "Now, once you are comfortable with just describing\ndata, where the question is you just want"
+    } ]
+  }, {
+    "tStartMs": 195360,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "to describe whatever data you have."
+    } ]
+  }, {
+    "tStartMs": 199240,
+    "dDurationMs": 7109,
+    "segs": [ {
+      "utf8": "The next step is to try and see I said that\nstatistics is the art of using data to draw"
+    } ]
+  }, {
+    "tStartMs": 206349,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "conclusions."
+    } ]
+  }, {
+    "tStartMs": 207349,
+    "dDurationMs": 3581,
+    "segs": [ {
+      "utf8": "So, you want to infer something from data."
+    } ]
+  }, {
+    "tStartMs": 210930,
+    "dDurationMs": 8600,
+    "segs": [ {
+      "utf8": "So, this lays the playground for you to go\nnext level which is inferential statistics."
+    } ]
+  }, {
+    "tStartMs": 219530,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "Inferential statistics will be taught in the\nnext course on statistics."
+    } ]
+  }, {
+    "tStartMs": 223960,
+    "dDurationMs": 6249,
+    "segs": [ {
+      "utf8": "But, however, in this course, we will help\nyou by laying the foundation or the building"
+    } ]
+  }, {
+    "tStartMs": 230209,
+    "dDurationMs": 3541,
+    "segs": [ {
+      "utf8": "block to understand inferential statistics."
+    } ]
+  }, {
+    "tStartMs": 233750,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "What do I mean by building block to understand\ninferential statistics?"
+    } ]
+  }, {
+    "tStartMs": 237410,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "We motivate this through a small introduction\nto the probability theory."
+    } ]
+  }, {
+    "tStartMs": 243370,
+    "dDurationMs": 8060,
+    "segs": [ {
+      "utf8": "When we go to probability theory, we start\nby what we mean by permutation and combinations."
+    } ]
+  }, {
+    "tStartMs": 251430,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "This is something which you are going to revisit."
+    } ]
+  }, {
+    "tStartMs": 253810,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "Most of you would have learned this in high\nschool, but you are going to revisit the concept"
+    } ]
+  }, {
+    "tStartMs": 258590,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "of permutation and combinations."
+    } ]
+  }, {
+    "tStartMs": 261340,
+    "dDurationMs": 6740,
+    "segs": [ {
+      "utf8": "Then, we introduce the notion of probability\nthrough random experiments like rolling a"
+    } ]
+  }, {
+    "tStartMs": 268080,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "die, tossing a coin and then, afterwards we\ntalk about probability of events, the combination"
+    } ]
+  }, {
+    "tStartMs": 273970,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "of events and why they are necessary."
+    } ]
+  }, {
+    "tStartMs": 276780,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "Finally, we end this course by introducing\nto two main distributions; namely, the binomial"
+    } ]
+  }, {
+    "tStartMs": 283880,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "distribution and the normal distribution."
+    } ]
+  }, {
+    "tStartMs": 286750,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Throughout the course, the focus is going\nto be on teaching at a conceptual level and"
+    } ]
+  }, {
+    "tStartMs": 293630,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "applying these concepts to real world problems."
+    } ]
+  }, {
+    "tStartMs": 297570,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "So, you will have a lot of assignments which\nwill test your knowledge, both at a conceptual"
+    } ]
+  }, {
+    "tStartMs": 303510,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "level and an application level."
+    } ]
+  }, {
+    "tStartMs": 306230,
+    "dDurationMs": 7090,
+    "segs": [ {
+      "utf8": "There would be at every stage, we will try\nand motivate the learner to look at understanding"
+    } ]
+  }, {
+    "tStartMs": 313320,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "the concepts and applying their concepts through\na set of case studies specifically designed"
+    } ]
+  }, {
+    "tStartMs": 319900,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "for this course."
+    } ]
+  }, {
+    "tStartMs": 321180,
+    "dDurationMs": 6290,
+    "segs": [ {
+      "utf8": "Welcome again to the world of statistics and\nthis course which is Statistics for Data Science-1."
+    } ]
+  } ]
+}
